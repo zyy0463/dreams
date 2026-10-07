@@ -1,5 +1,9 @@
 # dreams.js — 给你的 AI 角色加一套「会做梦」
 
+<a href="https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" width="400">
+</a>
+
 > **出处**：梦境系统二改自抖音「心潮」（原作者：**顾川**）；月环日历美化页面为 **Lydia 原创**。
 > 二传 / 二改请保留文末「出处与 credits」，注明原作者。
 
